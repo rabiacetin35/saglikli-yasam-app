@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+h1 {
+  color: #4CAF50;
+}
+<video id="camera" width="100%" height="auto" autoplay></video>
+
